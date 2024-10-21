@@ -2,7 +2,7 @@
 
 ### A Simple and Customizable Ticket Management System Inspired by JIRA
 
-![JIRA Ticket Manager Demo](https://via.placeholder.com/900x300.png?text=JIRA+Ticket+Manager+Screenshot)
+![JIRA Ticket Manager Demo](https://github.com/Saquib-Anjum/JIRA-TICKET-MANAGER/blob/main/bolb/Screenshot%202024-10-21%20135700.png)
 
 ## 📜 Project Description
 
