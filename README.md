@@ -4,7 +4,7 @@
 
 ##  [CLICK HERE !](https://67161953cdd15a21b4e58c11--cozy-mooncake-de714c.netlify.app/)
 
-![JIRA Ticket Manager Demo](https://github.com/Saquib-Anjum/JIRA-TICKET-MANAGER/blob/main/bolb/Screenshot%202024-10-21%20135700.png)
+![JIRA Ticket Manager Demo](https://github.com/Saquib-Anjum/JIRA-TICKET-MANAGER/blob/main/bolb/Screenshot%202024-10-22%20122305.png)
 
 ## 📜 Project Description
 
